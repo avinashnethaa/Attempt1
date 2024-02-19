@@ -19,7 +19,7 @@ Ensure you have the following prerequisites installed on your system:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/cardekho-car-price-prediction.git
+    git clone [https://github.com/your-username/cardekho-car-price-prediction.git](https://github.com/avinashnethaa/Attempt1.git)
     ```
 
 2. Install dependencies:
